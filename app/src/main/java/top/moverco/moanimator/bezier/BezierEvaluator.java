@@ -1,4 +1,4 @@
-package top.moverco.moanimator.views;
+package top.moverco.moanimator.bezier;
 
 import android.animation.TypeEvaluator;
 import android.graphics.PointF;

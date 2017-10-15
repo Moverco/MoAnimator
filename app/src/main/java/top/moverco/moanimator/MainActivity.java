@@ -1,6 +1,5 @@
 package top.moverco.moanimator;
 
-import android.content.Intent;
 import android.graphics.drawable.Animatable;
 import android.graphics.drawable.Drawable;
 import android.os.Bundle;
@@ -25,8 +24,8 @@ public class MainActivity extends AppCompatActivity {
         if (drawable instanceof Animatable){
             ((Animatable) drawable).start();
         }
-        Intent intent = new Intent(MainActivity.this,SecondBezier.class);
-        startActivity(intent);
+//        Intent intent = new Intent(MainActivity.this,SecondBezier.class);
+//        startActivity(intent);
     }
 
 }

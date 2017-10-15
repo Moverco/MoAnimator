@@ -1,4 +1,4 @@
-package top.moverco.moanimator.views;
+package top.moverco.moanimator.bezier;
 
 import android.annotation.TargetApi;
 import android.content.Context;

@@ -1,4 +1,4 @@
-package top.moverco.moanimator.views;
+package top.moverco.moanimator.bezier;
 
 import android.animation.ValueAnimator;
 import android.content.Context;
